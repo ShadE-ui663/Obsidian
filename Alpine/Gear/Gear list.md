@@ -35,5 +35,4 @@
 10. Gloves (Insulated)
     -Spyder
     -Arcteryx
-11. 25 cm dildo
 
