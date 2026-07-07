@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Breithorn.md",
+                "file": "Gear/Gear list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Breithorn"
+              "title": "Gear list"
             }
           },
           {
@@ -199,9 +199,9 @@
   },
   "active": "1a02ba685adfc612",
   "lastOpenFiles": [
+    "Breithorn.md",
     "Pasted image 20260708000130.png",
     "Grand Paradiso.md",
-    "Breithorn.md",
     "Pasted image 20260707235940.png",
     "Gear/Gear list.md",
     "Matterhorn.md",
