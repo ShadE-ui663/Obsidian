@@ -11,10 +11,14 @@
             "id": "1a02ba685adfc612",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Grand Paradiso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grand Paradiso"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "Gear list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +197,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3394cce563c03bf",
+  "active": "1a02ba685adfc612",
   "lastOpenFiles": [
-    "Gear/Gear list.md",
     "Breithorn.md",
+    "Pasted image 20260707235940.png",
+    "Gear/Gear list.md",
     "Matterhorn.md",
     "Grand Paradiso.md",
     "Gear",
