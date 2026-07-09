@@ -42,7 +42,11 @@
 10. Gloves (Insulated)
     -Spyder
     -Arcteryx
-11. GPS
+11. GPS (for future summits)
+12. Sunglasses (to prevent snow blindness)
+    -Any with the polarization
+    -Any you like
+
 
 
 
