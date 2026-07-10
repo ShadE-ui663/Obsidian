@@ -52,6 +52,6 @@
 
 # **Other recommendations and advices:**
 
-First of all, do not EVER take cotton as a base nor insulation layer, it can get wet pretty quickly, which consequently will add another sufficient weight to your loadout, synthetic on other hand, does it's purpose just as good due to the fact that you'll be moving almost 99% of the time.  
+First of all, do not EVER take cotton as a base layer, it can get wet pretty quickly, which consequently will add another sufficient weight to your loadout, synthetic on other hand, does it's purpose just as good due to the fact that you'll be moving almost 99% of the time. For the insulation layer, best choice is 700-fill, or higher grade (700+), this insulation can withstand temperatures below -15 celcius pretty well.
 
 Secondly, there's a time limit to summiting the mountain, which stands around 9-10 am depending on the climate conditions, if you're too late, turn back and try again next day. The purpose is simple, you can suffer from bad weather conditions or get lost in the mist, which is often on Breithorn. Another reason - you will get back in the complete darkness, consequently - it's dangerous. Start at around 3am and summit the mountain before 12pm, then get back down.
